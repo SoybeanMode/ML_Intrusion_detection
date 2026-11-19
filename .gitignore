@@ -4,7 +4,7 @@ data/
 *.npy
 *.joblib
 reports/
-results/
+
 # Python
 .venv/
 venv/
