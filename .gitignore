@@ -1,0 +1,15 @@
+# Datasets
+data/
+*.zip
+*.npy
+*.joblib
+reports/
+results/
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Credentials
+.env
